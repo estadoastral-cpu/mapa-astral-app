@@ -1,0 +1,5 @@
+{
+  "name": "mapa 22 del 9",
+  "description": "Una aplicación que genera un 'mapa astral' personal analizando la información del usuario a través de las lentes de la numerología pitagórica, las constelaciones familiares, las 5 heridas biológicas y la PNL utilizando la API de Gemini.",
+  "requestFramePermissions": []
+}
